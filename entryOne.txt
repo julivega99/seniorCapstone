@@ -1,14 +1,30 @@
 
-The beginning of project has been a whirlwind. I was unsure of what I wanted to do from the beginning. Until I stumbled upon Fernando Rivera. Fernando works at Buen Trip Hub, an Ecuadorian accelerator, and after a brief conversation, he agreed to be my mentor.
+The beginning of project has been a whirlwind. I was unsure of what I wanted to do 
+from the beginning. Until I stumbled upon Fernando Rivera. Fernando works at Buen 
+Trip Hub, an Ecuadorian accelerator, and after a brief conversation, he agreed to 
+be my mentor.
 
-How do I describe my project? As the Ecuadorian version of Crunchbase. Buen Trip Hub has been collecting data on Ecuadorian startups for the past decade. They want to create a platform that showcases this information and allows startups to connect with investors and with each other. That is where I come in. 
+How do I describe my project? As the Ecuadorian version of Crunchbase. Buen Trip 
+Hub has been collecting data on Ecuadorian startups for the past decade. They want 
+to create a platform that showcases this information and allows startups to connect
+with investors and with each other. That is where I come in. 
 
-The goal of my capstone is to create a smaller-scale version of this platform with scalability potential. 
+The goal of my capstone is to create a smaller-scale version of this platform 
+with scalability potential. 
 
-These past few weeks have entailed a lot of brainstorming. Not only have I had to submit two “deliverables”, but I have had to familiarize myself with what Crunchbase is. It is hard not to get overwhelmed with the size of this project. 
+These past few weeks have entailed a lot of brainstorming. Not only have 
+I had to submit two “deliverables”, but I have had to familiarize myself 
+with what Crunchbase is. It is hard not to get overwhelmed with the size 
+of this project. 
 
-I have to remind myself to take deep breaths and that I don’t have to build it all at once, it consists of building small parts that will eventually create a whole. 
+I have to remind myself to take deep breaths and that I don’t have to build it 
+all at once, it consists of building small parts that will 
+eventually create a whole. 
 
-The tech recruitment season has not made things easier. It definitely has consumed my compSci energy. 
+The tech recruitment season has not made things easier. It definitely has 
+consumed my compSci energy. 
 
-In the next few weeks, I will meet with Fernando again to keep brainstorming and come up with a game plan. I am looking forward to it. 
+In the next few weeks, I will meet with Fernando again to keep brainstorming 
+and come up with a game plan. I am looking forward to it. 
+
+>>>>>>> 2d6a0bc7e6e540ab4191252b0e1f81444b8a140e
