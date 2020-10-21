@@ -1,0 +1,13 @@
+Today I had a very productive meeting with Fernando; we set up
+a meeting for next friday and several to-do items until then. 
+
+TO-DO
+
+- Create a Jira account and add Fernando as a contributor
+- Decide on a database to use
+    - Most likely mongoDB Atlas
+- Decide on a backend
+    - Most likely django or strapi.io + AWS
+    - Check AWS student allowance
+- Create a few user stories for our first sprint meeting
+    - Scrum
