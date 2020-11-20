@@ -1,0 +1,11 @@
+Happy times! I finished my first sprint with Fernando! We closed it on
+Wednesday. I have a MongoDB set up, an AWS instace started and a gitHub repo!
+My next step is to migrate the existing data (Which is on a spreadsheet) to 
+Mongo... it will be tedious but it will be fun. (Ming, if you have any
+recommendations to speed up the process, I would love to hear them!
+
+I am looking forward to the semester wrapping up so I can focus on this 100%.
+
+Lastly, we set up our next meeting for the Monday after thanksgiving.
+
+
