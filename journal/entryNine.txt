@@ -1,0 +1,28 @@
+
+This week, I met with Prof. Ming and concluded that I will be handing in the 
+six items missing by the end of the semester. These six items are:
+
+1. Gitlab Source code - This is on the same repo as the journal, but on a
+   different folder
+
+2. Risk Assesment 
+
+3. Project Plan - has been completed
+
+4. Competency Proficiency Deomo
+
+5. Design Doc
+
+6. Proof of Concept Demo and Project Status Presentation
+
+
+Additionally, I would like to meet with Prof. Ming to discuss the database 
+with him (Fernando asked for this as well). I will email him ASAP.
+
+On the other hand, Fernando and I have been meeting weekly, completing our 
+sprints, and I have been learning a lot from him. I am very excited to be 
+working in BuenTrip and feel part of the broader team. 
+
+It has been a crazy semester but a good one. 
+
+
